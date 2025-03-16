@@ -27,7 +27,7 @@ Blinking cursor effect 💡
 
 Clone the repository:
 
-git clone https://github.com/yourusername/typewriter-effect.git
+git clone https://github.com:sunnyaquostic/Typewriter-Text-Effect.git
 cd typewriter-effect
 
 Open index.html in your browser
